@@ -1,4 +1,4 @@
-hargapack = 10000 -- HARGA PACK
+hargapack = 1000000000 -- HARGA PACK
 namapack = "gross_mixers" -- NAMA PACK
 MinGems = hargapack             -- Minimum Gems for Buying Pack
 MinItemPack = 1 --APABILA JUMLAH ITEM YANG ADA DIDALAM 
