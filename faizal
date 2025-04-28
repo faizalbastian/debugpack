@@ -1,4 +1,4 @@
-hargapack = 45000 -- HARGA PACK
+hargapack = 4500000 -- HARGA PACK
 namapack = "surg_value_pack" -- NAMA PACK
 MinGems = hargapack             -- Minimum Gems for Buying Pack
 MinItemPack = 10 --APABILA JUMLAH ITEM YANG ADA DIDALAM 
