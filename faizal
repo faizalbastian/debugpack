@@ -1,7 +1,9 @@
-hargapack = 1000000 -- HARGA PACK
-namapack = "gross_mixers" -- NAMA PACK
+autobuypack = true              -- Automatically buying a pack
+hargapack = 45000 -- HARGA PACK
+namapack = "surg_value_pack" -- NAMA PACK
 MinGems = hargapack             -- Minimum Gems for Buying Pack
-MinItemPack = 1 --APABILA JUMLAH ITEM YANG ADA DIDALAM 
+MinItemPack = 10 --APABILA JUMLAH ITEM YANG ADA DIDALAM 
 maxbuy = 10 --MAKSIMAL BOTNYA AKAN REPEAT BELI PACK JIKA 
-iditempack = {8396,8398,8392,8394,8390,9102,9104,9106,9108}
+iditempack = {1270, 4316, 4310, 1258, 4312, 4318, 4308, 1260, 1268, 4314, 1264, 1266, 1262, 4296,}
+ID_AcuanDrop_Pack = 858           -- ID Foreground or Background for Drop Pack
 MinMaladyDuration = 600     -- Minimum Duration for Waiting Malady Expired [Make sure maladyTimeout is true]
