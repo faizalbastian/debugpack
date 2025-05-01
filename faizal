@@ -7,3 +7,8 @@ maxbuy = 10 --MAKSIMAL BOTNYA AKAN REPEAT BELI PACK JIKA
 iditempack = {1270, 4316, 4310, 1258, 4312, 4318, 4308, 1260, 1268, 4314, 1264, 1266, 1262, 4296,}
 ID_AcuanDrop_Pack = 858           -- ID Foreground or Background for Drop Pack
 MinMaladyDuration = 600     -- Minimum Duration for Waiting Malady Expired [Make sure maladyTimeout is true]
+Rest_Settings = {
+    enable = false,                              -- Bot will Resting if true
+    interval = 120,                             -- Every 120 Minutes [2 Hours] the Bot will enter Rest Mode [Disconnect]
+    rest = 3                                    -- The bot will rest for 5 minutes
+}
