@@ -1,5 +1,5 @@
 autobuypack = true              -- Automatically buying a pack
-hargapack = 30000 -- HARGA PACK
+hargapack = 3000000 -- HARGA PACK
 namapack = "pinata_value_pack_red" -- NAMA PACK
 MinGems = hargapack             -- Minimum Gems for Buying Pack
 MinItemPack = 1 --APABILA JUMLAH ITEM YANG ADA DIDALAM 
