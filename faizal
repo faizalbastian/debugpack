@@ -12,3 +12,4 @@ Rest_Settings = {
     interval = 120,                             -- Every 120 Minutes [2 Hours] the Bot will enter Rest Mode [Disconnect]
     rest = 3                                    -- The bot will rest for 5 minutes
 }
+JedaBanwave = 30                                -- Apabila Status Bot berubah Menjadi "Banwave Detected", botnya akan Berhenti sejenak selama x Menit
