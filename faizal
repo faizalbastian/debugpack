@@ -14,3 +14,4 @@ Rest_Settings = {
 }
 JedaBanwave = 30                                -- Apabila Status Bot berubah Menjadi "Banwave Detected", botnya akan Berhenti sejenak selama x Menit
 JedaHW = 1                  -- Hard warp rest in X Minutes when Hardwarp
+MaxPlayerOnline = 770000                         -- Bot Will Disconnect if Players Online Reach X MaxPlayersOnline [Make it false or 0 if u dont needed]
